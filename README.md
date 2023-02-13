@@ -1,5 +1,5 @@
 
-# TypeScript 
+# Desafio
 
 Esse repositorio trata-se do exercício final do curso de typescript da origamid, em que foi proposto os serguintes tópicos: 
 
